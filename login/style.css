@@ -1,0 +1,16 @@
+body
+{
+	
+	background-color: #ffffaa ;
+	text-align:center;
+}
+form {
+	background-color:lightgreen ;
+text-align:center;
+width :25% ;
+margin:20%;
+padding:10px;
+border : solid blue ;
+border-radius : 19px ; 
+
+}

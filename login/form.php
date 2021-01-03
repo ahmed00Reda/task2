@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<link rel="stylesheet" href="style.css">
+    <title>login page</title>
 </head>
 <body>
 <form action="process.php" method="post">
-    <label for="name">Name</label>
+    <label for="name">Name</label> <br>
     <input type="text" name="name" id="name" >  <br>
     
-    <label for="password">password</label>
+    <label for="password">password</label> <br>
     <input type="password" name="password" id="pass"><br>
    
     
